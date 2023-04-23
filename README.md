@@ -1,1 +1,1 @@
-# vijaypalyam.gitub.io
+# vijaypalyam.github.io
