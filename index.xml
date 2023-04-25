@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Insight Hub</title>
+    <link>http://www.vijaypalyam.com/</link>
+    <description>Recent content on My Insight Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2023 16:50:28 +0800</lastBuildDate><atom:link href="http://www.vijaypalyam.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a good test of a North Start Metric?</title>
+      <link>http://www.vijaypalyam.com/post/good-test-of-nsm/</link>
+      <pubDate>Mon, 24 Apr 2023 16:50:28 +0800</pubDate>
+      
+      <guid>http://www.vijaypalyam.com/post/good-test-of-nsm/</guid>
+      <description>In general, we all understand NSM is one metric that the whole organization goes behind. However, when you try to identify such a metric, you will have a hard time. More the stakeholders you involve, more will be the number of goals they would want to achieve, and every such goal will have one or more metrics, considering each of those goals to be important, You will find it even more harded to select a NSM .</description>
+    </item>
+    
+    <item>
+      <title>Need help monitoring and measuring the success of your product?</title>
+      <link>http://www.vijaypalyam.com/post/need-help-monitoring-measuring-success-product/</link>
+      <pubDate>Wed, 19 Apr 2023 18:58:11 +0800</pubDate>
+      
+      <guid>http://www.vijaypalyam.com/post/need-help-monitoring-measuring-success-product/</guid>
+      <description>If you think you need help monitoring and measuring the success of your product. Then you are most likely struggling to create a meaningful dashboard for your Product. The sheer number of metrics that indicate the effectiveness and performance of your product, Metrics indicating the behavior and satisfaction of your customers will overwhelm you.
+You will struggle to draw co-relations between the various metrics, you will also struggle to identify the frequency with which you need to monitor them as well.</description>
+    </item>
+    
+    <item>
+      <title>What is North Star metric? Should dashboards have the metric? What are the consequences of not defining it?</title>
+      <link>http://www.vijaypalyam.com/post/what-is-nsm/</link>
+      <pubDate>Mon, 17 Apr 2023 22:19:13 +0800</pubDate>
+      
+      <guid>http://www.vijaypalyam.com/post/what-is-nsm/</guid>
+      <description>Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.vijaypalyam.com/about/</link>
+      <pubDate>Fri, 26 Apr 2019 20:18:54 +0300</pubDate>
+      
+      <guid>http://www.vijaypalyam.com/about/</guid>
+      <description>Who am I? I am Vijay Palyam, a techie. a generalist and strongly opinionated. I currently work as a chief Architect for Edukemy, which is an ed-tech start-up. My area of interest is the use of technology to help solve real-world problems. I believe in the hand of God for most things I do and work on. In recent times I have become a huge fan of the Agile approach, and growth hacks.</description>
+    </item>
+    
+  </channel>
+</rss>

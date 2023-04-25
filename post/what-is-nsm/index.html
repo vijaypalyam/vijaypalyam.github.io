@@ -1,0 +1,215 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>What is North Star metric? Should dashboards have the metric? What are the consequences of not defining it? | My Insight Hub</title>
+    <meta name="description"
+        content="Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization.">
+    <link rel="canonical" href="http://www.vijaypalyam.com/post/what-is-nsm/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+    
+    <link rel="stylesheet" href="http://www.vijaypalyam.com/scss/style.min.76ffadcfb5f0a32f96b1715fe09408322fc7089e21adddeffb526eb123ce3261.css">
+
+    <meta property="og:title" content="What is North Star metric? Should dashboards have the metric? What are the consequences of not defining it?" />
+<meta property="og:description" content="Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.vijaypalyam.com/post/what-is-nsm/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-04-17T22:19:13+08:00" />
+<meta property="article:modified_time" content="2023-04-17T22:19:13+08:00" /><meta property="og:site_name" content="My Perspectives and Opinions" />
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="What is North Star metric? Should dashboards have the metric? What are the consequences of not defining it?"/>
+<meta name="twitter:description" content="Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization."/>
+
+    
+    
+    
+
+</head><body><nav class="navbar is-light" role="navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" title="home" class="navbar-item">
+                <span class="logo">
+                    <h1>My Insight Hub</h1>
+                </span>
+            </a>
+
+            
+            <a id="theme-toggle" class="theme-toggle" href="#">
+                <img src="http://www.vijaypalyam.com/svg/sun.svg" alt="sun icon" class="theme-icon" />
+            </a>
+
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                
+                <a href="/about" class="navbar-item">About</a>
+                
+                <a href="/post" class="navbar-item">Blog</a>
+                
+                <a href="/categories" class="navbar-item">Categories</a>
+                
+            </div>
+
+        </div>
+        <div class="search">
+            <div id="fastSearch">
+                <input id="searchInput" tabindex="0" placeholder="Search..">
+                <ul id="searchResults">
+
+                </ul>
+            </div>
+            <a id="search-btn" style="display: inline-block;" href="# ">
+                <div class="icon-search"><svg class="search-svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div>
+            </a>
+        </div>
+
+        <script src="/js/fuse.min.js"></script> 
+        <script src="/js/fastsearch.js"></script>
+
+    </div>
+</nav>
+
+<script>
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var burger = document.querySelector('.navbar-burger');
+        burger.addEventListener('click', function() {
+            burger.classList.toggle('is-active');
+            document.querySelector('.navbar-menu').classList.toggle('is-active');
+        });
+    });
+
+    
+    function setTheme(theme) {
+        let body = document.body;
+        let themeIcon = document.querySelector(".theme-icon");
+        if (theme === "dark") {
+            body.classList.add("dark-mode");
+            themeIcon.src = "http:\/\/www.vijaypalyam.com\/svg/moon.svg";
+            themeIcon.alt = "moon icon";
+        } else {
+            body.classList.remove("dark-mode");
+            themeIcon.src = "http:\/\/www.vijaypalyam.com\/svg/sun.svg";
+            themeIcon.alt = "sun icon";
+        }
+        
+        localStorage.setItem("theme", theme);
+    }
+
+    
+    let theme = localStorage.getItem("theme") || "light";
+    setTheme(theme);
+
+    
+    document.getElementById("theme-toggle").addEventListener("click", function() {
+        if (theme === "light") {
+            theme = "dark";
+        } else {
+            theme = "light";
+        }
+        setTheme(theme);
+    });
+
+
+
+</script>
+
+</header><main>
+<div class="single-container">
+    <div class="archive">
+        <h1 class="title is-1">What is North Star metric? Should dashboards have the metric? What are the consequences of not defining it?</h1>
+        <div class="title subtitle heading is-6">
+            <div class="author-info columns is-vcentered">
+                <div class="column">
+                    <div class="columns is-vcentered is-mobile">
+                        
+                        <div class="column is-narrow">
+                            <img src="/images/profile.jpg" class="author-image">
+                        </div>
+                        
+                        <div class="column" >
+                            <p>Vijay palyam</p>
+                            <p><time>April 17, 2023</time>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="small-categories-container">
+                    <a
+                        href="/categories/nsm">NSM</a>, <a
+                        href="/categories/growthhack">GrowthHack</a>, <a
+                        href="/categories/productmanagement">ProductManagement</a>
+                </div>
+            </div>
+        </div>
+        <div class="content article-content">
+            <div class="toc-container">
+                
+    <div class="post-toc">
+        
+            <aside>
+                <h4 style="margin-left: 1vw;">CONTENTS</h4><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#lack-of-clarity-and-alignment">Lack of clarity and alignment:</a></li>
+        <li><a href="#lack-of-accountability-and-impact">Lack of accountability and impact:</a></li>
+        <li><a href="#lack-of-direction-and-strategy">Lack of direction and strategy:</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></aside>
+        
+    </div>
+                </div>
+            <p>Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization.</p>
+<p>Whether a dashboard should have a north star metric depends on the purpose and scope of the dashboard. However a north star metric is usually relevant for a product dashboard, which tracks how well the product is delivering value to customers and achieving the product vision. A product dashboard can have a north star metric as the main focus, and other supporting metrics that influence or are influenced by the north star metric.
+A north star metric can be a powerful way to align and motivate a product team around a common goal and measure their impact on customers.</p>
+<p>Not having a north star metric can have several negative consequences for a product team and a company. Some of them are:</p>
+<h3 id="lack-of-clarity-and-alignment">Lack of clarity and alignment:</h3>
+<p>Without a clear and shared metric that reflects the customer value and the business goal, different teams and departments may have conflicting priorities, goals, and incentives. This can lead to confusion, duplication of effort, wasted resources, and missed opportunities.</p>
+<h3 id="lack-of-accountability-and-impact">Lack of accountability and impact:</h3>
+<p>Without a measurable and meaningful metric that shows the progress and outcome of the product initiatives, product teams may focus on shipping features rather than solving problems. This can result in low-quality products, poor customer satisfaction, and weak retention.</p>
+<h3 id="lack-of-direction-and-strategy">Lack of direction and strategy:</h3>
+<p>Without a guiding metric that indicates the long-term vision and growth potential of the product, product teams may lose sight of the big picture and chase short-term wins or vanity metrics. This can result in losing competitive advantage, innovation, and market fit.
+Therefore, having a north star metric is important for product teams and companies to stay focused, aligned, accountable, impactful, and strategic.</p>
+<p>Hope these thoughts will inspire you to think about North Star metric and start conversations around this metric.</p>
+
+        </div>
+    </div>
+    <div class="pp-container">
+        <section class="pre-and-post">
+                        <div class="has-text-left">
+                            
+                        </div>
+                        <div class="has-text-right">
+                            
+                            <p>Next post</p>
+                            <a href="http://www.vijaypalyam.com/post/need-help-monitoring-measuring-success-product/">Need help monitoring and measuring the success of your product?</a>
+                            
+                        </div>
+        </section>
+    </div>
+</div>
+
+        </main><footer class="footer">
+    <div class="content has-text-centered">
+    <span>&copy; 2023 <a href="http://www.vijaypalyam.com/">My Insight Hub</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" target="_blank">Hugo</a> &
+        <a href="https://github.com/hotjuicew/hugo-JuiceBar" target="_blank">JuiceBar</a>
+    </span>
+    </div>
+  </footer></body>
+</html>
+
