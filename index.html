@@ -1,268 +1,110 @@
-
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
 <head>
-	<meta name="generator" content="Hugo 0.111.3">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <title>My Insights</title>
-    <meta name="description"
-        content="Tech Blogs of Vijay Palyam ">
-    <link rel="canonical" href="https://vijaypalyam.github.io/" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Hugo 0.111.3">
+  
+  <meta name="description" content="Insights Hub">
+  <link rel="stylesheet" href="https://vijaypalyam.com/css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  
+  
+  
+  <link rel="stylesheet" href="https://vijaypalyam.com/css/cayman.ea0e967413f3851071cc8ace3621bc4205fe8fa79b2abe3d7bf94ff2841f0d47.css">
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+  <title>Insights Hub | Insights Hub</title>
+</head>
+
+<body>
+  <section class="page-header">
+  <h1 class="project-name">
+    My Insights
+  </h1>
+  <h2 class="project-tagline">
+    My views and opinions
+  </h2>
+  <nav>
     
-    <link rel="stylesheet" href="https://vijaypalyam.github.io/scss/style.min.76ffadcfb5f0a32f96b1715fe09408322fc7089e21adddeffb526eb123ce3261.css">
-
-    <meta property="og:title" content="My Insights" />
-<meta property="og:description" content="Tech Blogs of Vijay Palyam " />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://vijaypalyam.github.io/" /><meta property="og:site_name" content="Understanding, Perspective and Opinion" />
-
-    <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="My Insights"/>
-<meta name="twitter:description" content="Tech Blogs of Vijay Palyam "/>
-
     
-    
-    
-
-</head><body><nav class="navbar is-light" role="navigation">
-    <div class="container">
-        <div class="navbar-brand">
-            <a href="/" title="home" class="navbar-item">
-                <span class="logo">
-                    <h1>My Insights</h1>
-                </span>
-            </a>
-
-            
-            <a id="theme-toggle" class="theme-toggle" href="#">
-                <img src="https://vijaypalyam.github.io/svg/sun.svg" alt="sun icon" class="theme-icon" />
-            </a>
-
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-
-        <div class="navbar-menu">
-            <div class="navbar-start">
-                
-                <a href="/about" class="navbar-item">About</a>
-                
-                <a href="/post" class="navbar-item">Blog</a>
-                
-                <a href="/categories" class="navbar-item">Categories</a>
-                
-            </div>
-
-        </div>
-        <div class="search">
-            <div id="fastSearch">
-                <input id="searchInput" tabindex="0" placeholder="Search..">
-                <ul id="searchResults">
-
-                </ul>
-            </div>
-            <a id="search-btn" style="display: inline-block;" href="# ">
-                <div class="icon-search"><svg class="search-svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div>
-            </a>
-        </div>
-
-        <script src="/js/fuse.min.js"></script> 
-        <script src="/js/fastsearch.js"></script>
-
-    </div>
-</nav>
-
-<script>
-    
-    document.addEventListener('DOMContentLoaded', function() {
-        var burger = document.querySelector('.navbar-burger');
-        burger.addEventListener('click', function() {
-            burger.classList.toggle('is-active');
-            document.querySelector('.navbar-menu').classList.toggle('is-active');
-        });
-    });
-
-    
-    function setTheme(theme) {
-        let body = document.body;
-        let themeIcon = document.querySelector(".theme-icon");
-        if (theme === "dark") {
-            body.classList.add("dark-mode");
-            themeIcon.src = "https:\/\/vijaypalyam.github.io\/svg/moon.svg";
-            themeIcon.alt = "moon icon";
-        } else {
-            body.classList.remove("dark-mode");
-            themeIcon.src = "https:\/\/vijaypalyam.github.io\/svg/sun.svg";
-            themeIcon.alt = "sun icon";
-        }
-        
-        localStorage.setItem("theme", theme);
-    }
-
-    
-    let theme = localStorage.getItem("theme") || "light";
-    setTheme(theme);
-
-    
-    document.getElementById("theme-toggle").addEventListener("click", function() {
-        if (theme === "light") {
-            theme = "dark";
-        } else {
-            theme = "light";
-        }
-        setTheme(theme);
-    });
-
-
-
-</script>
-
-</header><main>
-<article>
-    <div class="is-centered">
-            <div class="title subtitle heading is-6">
-                <div id="home-box" >
-                            
-                            <div class="avatar-container">
-                                <img src="/images/Vijay.jpg" class="author-avatar">
-
-                            </div>
-                            
-
-
-
-                        <h1 id="home-title" class="title is-1 ">Understanding, Perspective and Opinion</h1>
-                    <div class="description column content typewriter-effect">
-                        <div class="text" id="typewriter-text"> My thoughts on the work i do</div>
-
-                    </div>
-                    <script>
-                        const typeWriter = document.getElementById('typewriter-text');
-                        typeWriter.style.setProperty('--characters', typeWriter.innerHTML.length);
-                    </script>
-
-                    <div class="social-icon">
-
-                        
-                        <a href="mailto:vijaypalyam@gmail.com" title="email"><span class="change-color icon">
-                                <svg height="32px" width="32px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
-    stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-    <polyline points="22,6 12,13 2,6"></polyline>
-</svg>
-                            </span></a>
-                        
-                        <a href="https://www.linkedin.com/in/vijaypalyam/" title="linkedin"><span class="change-color icon">
-                                <svg height="32px" width="32px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-    stroke-linecap="round" stroke-linejoin="round">
-    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
-    <rect x="2" y="9" width="4" height="12"></rect>
-    <circle cx="4" cy="4" r="2"></circle>
-</svg>
-                            </span></a>
-                        
-
-                    </div>
-
-                </div>
-            </div>
-
-    </div></article>
-<div class="summary">
-    
-        <article class="post">
-  <div class="single-container column is-centered">
-    <div class="archive" id="post-container">
-      <header class="post-header">
-        <h1 class="post-title hover-underline-animation"><a class="post-link" href="/post/good-test-of-nsm/">What is a good test of a North Start Metric?</a></h1>
-       
-       
-      </header>
-      <div class="post-content">
-        <div class="excerpt post-summary">
-          In general, we all understand NSM is one metric that the whole organization goes behind. However, when you try to identify such a metric, you will have a hard time. More the stakeholders you involve, more will be the number of goals they would want to achieve, and every such goal will have one or more metrics, considering each of those goals to be important, You will find it even more harded to select a NSM .
-        </div>
-        
-        <div class="post-time-container">
-          <span class="post-time"> 2023-04-24 </span>
-        </div>
-      </div>
       
-    </div>
-  </div>
-</article>
-
-    
-        <article class="post">
-  <div class="single-container column is-centered">
-    <div class="archive" id="post-container">
-      <header class="post-header">
-        <h1 class="post-title hover-underline-animation"><a class="post-link" href="/post/need-help-monitoring-measuring-success-product/">Need help monitoring and measuring the success of your product?</a></h1>
-       
-       
-      </header>
-      <div class="post-content">
-        <div class="excerpt post-summary">
-          If you think you need help monitoring and measuring the success of your product. Then you are most likely struggling to create a meaningful dashboard for your Product. The sheer number of metrics that indicate the effectiveness and performance of your product, Metrics indicating the behavior and satisfaction of your customers will overwhelm you.
-You will struggle to draw co-relations between the various metrics, you will also struggle to identify the frequency with which you need to monitor them as well.
-        </div>
-        
-        <div class="post-time-container">
-          <span class="post-time"> 2023-04-19 </span>
-        </div>
-      </div>
       
-    </div>
-  </div>
-</article>
-
-    
-        <article class="post">
-  <div class="single-container column is-centered">
-    <div class="archive" id="post-container">
-      <header class="post-header">
-        <h1 class="post-title hover-underline-animation"><a class="post-link" href="/post/what-is-nsm/">What is North Star metric? Should dashboards have the metric? What are the consequences of not defining it?</a></h1>
-       
-       
-      </header>
-      <div class="post-content">
-        <div class="excerpt post-summary">
-          Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization.
-        </div>
-        
-        <div class="post-time-container">
-          <span class="post-time"> 2023-04-17 </span>
-        </div>
-      </div>
       
-    </div>
-  </div>
-</article>
-
+      
+      <a href="/" class="btn">Blog</a>
     
-    <hr>
-<section class="pagination" >
+      
+      
+      
+      
+      <a href="/tags/" class="btn">Tags</a>
     
-    <label class="pag-link">Page 1 of 1</label>
+      
+      
+      
+      
+      <a href="/about/" class="btn">About</a>
     
+      
+      
+      
+      
+      <a href="/index.xml" class="btn">RSS</a>
+    
+  </nav>
 </section>
 
-</div>
+  <section class="main-content">
+    
+<h1>Insights Hub</h1>
+<ul>
 
-        </main><footer class="footer">
-    <div class="content has-text-centered">
-    <span>&copy; 2023 <a href="https://vijaypalyam.github.io/">My Insights</a></span>
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" target="_blank">Hugo</a> &
-        <a href="https://github.com/hotjuicew/hugo-JuiceBar" target="_blank">JuiceBar</a>
-    </span>
-    </div>
-  </footer></body>
+
+  <li>
+    
+    2023-04-24
+    <a href="https://vijaypalyam.com/good-test-of-nsm/">
+      What is a good test of a North Start Metric?
+    </a>
+  </li>        
+
+  <li>
+    
+    2023-04-19
+    <a href="https://vijaypalyam.com/need-help-monitoring-measuring-success-product/">
+      Need help monitoring and measuring the success of your product?
+    </a>
+  </li>        
+
+  <li>
+    
+    2023-04-17
+    <a href="https://vijaypalyam.com/what-is-nsm/">
+      What is NSM? What are the consequences of not defining it?
+    </a>
+  </li>        
+
+</ul>
+
+    <footer class="site-footer">
+  <span class="site-footer-credits">
+    Made with <a href="https://gohugo.io/">Hugo</a>. Themed by <a href="https://github.com/zwbetz-gh/cayman-hugo-theme">Cayman</a>. Deployed to <a href="https://www.netlify.com/">Netlify</a>.
+  </span>
+</footer>
+
+  </section>
+  
+  
+
+</body>
 </html>
-
