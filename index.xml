@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ramium</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Ramium</description>
+    <title>Insights Hub</title>
+    <link>https://vijaypalyam.com/</link>
+    <description>Recent content on Insights Hub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://vijaypalyam.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What is a good test for determining NSM?</title>
-      <link>https://example.com/posts/good-test-of-nsm/</link>
+      <title>Can any metric become a NSM ?</title>
+      <link>https://vijaypalyam.com/posts/good-test-of-nsm/</link>
       <pubDate>Sun, 23 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/posts/good-test-of-nsm/</guid>
+      <guid>https://vijaypalyam.com/posts/good-test-of-nsm/</guid>
       <description>In general, we all understand NSM is one metric that the whole organization goes behind. However, when you try to identify such a metric, you will have a hard time. More the stakeholders you involve, more will be the number of goals they would want to achieve, and every such goal will have one or more metrics, considering each of those goals to be important, You will find it even more harded to select a NSM .</description>
     </item>
     
     <item>
       <title>Are you struggling to measure the success of your product?</title>
-      <link>https://example.com/posts/need-help-monitoring-measuring-success-product/</link>
+      <link>https://vijaypalyam.com/posts/need-help-monitoring-measuring-success-product/</link>
       <pubDate>Thu, 20 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/posts/need-help-monitoring-measuring-success-product/</guid>
-      <description>If you think you need help monitoring and measuring the success of your product. Then you are most likely struggling to create a meaningful dashboard for your Product. The sheer number of metrics that indicate the effectiveness and performance of your product, Metrics indicating the behavior and satisfaction of your customers will overwhelm you.</description>
+      <guid>https://vijaypalyam.com/posts/need-help-monitoring-measuring-success-product/</guid>
+      <description>If you think you need help monitoring and measuring the success of your product. Then you are most likely struggling to create a meaningful dashboard for your Product. The sheer number of metrics that indicate the effectiveness and performance of your product, Metrics indicating the behavior and satisfaction of your customers will overwhelm you.
+You will struggle to draw co-relations between the various metrics, you will also struggle to identify the frequency with which you need to monitor them as well.</description>
     </item>
     
     <item>
       <title>what is NSM? why is it important?</title>
-      <link>https://example.com/posts/what-is-nsm/</link>
+      <link>https://vijaypalyam.com/posts/what-is-nsm/</link>
       <pubDate>Sun, 16 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/posts/what-is-nsm/</guid>
-      <description>Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to.</description>
+      <guid>https://vijaypalyam.com/posts/what-is-nsm/</guid>
+      <description>Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to. North Star should reflect the customer value proposition and the long-term vision of the product. It should also lead to revenue, it should lead to measuring progress, and influence behavior of the entire organization.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>https://vijaypalyam.com/about/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://vijaypalyam.com/about/</guid>
       <description>Vijay Palyam
-Who am I? I am Vijay Palyam, a generalist with more than 18 years of Industry Expereince. I currently work as a chief Architect / IT delivery Lead for Edukemy, which is an ed-tech start-up. My area of interest is the use of technology to help solve real-world problems.</description>
+Who am I? I am Vijay Palyam, a generalist with more than 18 years of Industry Expereince. I currently work as a chief Architect / IT delivery Lead for Edukemy, which is an ed-tech start-up. My area of interest is the use of technology to help solve real-world problems. I believe in the hand of God for all things I do and work on. In recent times I have become a huge fan of the Agile approach and data sceince.</description>
     </item>
     
   </channel>

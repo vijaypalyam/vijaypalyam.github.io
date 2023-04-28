@@ -2,40 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/good-test-of-nsm/</loc>
+    <loc>https://vijaypalyam.com/posts/good-test-of-nsm/</loc>
     <lastmod>2023-04-23T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/need-help-monitoring-measuring-success-product/</loc>
+    <loc>https://vijaypalyam.com/posts/need-help-monitoring-measuring-success-product/</loc>
     <lastmod>2023-04-20T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/what-is-nsm/</loc>
+    <loc>https://vijaypalyam.com/posts/what-is-nsm/</loc>
     <lastmod>2023-04-16T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/growth-hack/</loc>
+    <loc>https://vijaypalyam.com/tags/growthhack/</loc>
     <lastmod>2023-04-23T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/nsm/</loc>
+    <loc>https://vijaypalyam.com/</loc>
     <lastmod>2023-04-23T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://vijaypalyam.com/tags/nsm/</loc>
     <lastmod>2023-04-23T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://vijaypalyam.com/posts/</loc>
     <lastmod>2023-04-23T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://vijaypalyam.com/tags/</loc>
     <lastmod>2023-04-23T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/dashboard/</loc>
+    <loc>https://vijaypalyam.com/tags/dashboard/</loc>
     <lastmod>2023-04-20T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/guideline-metric/</loc>
+    <loc>https://vijaypalyam.com/tags/guideline-metric/</loc>
     <lastmod>2023-04-20T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/product-sucess/</loc>
+    <loc>https://vijaypalyam.com/tags/product-sucess/</loc>
     <lastmod>2023-04-20T17:55:28+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://vijaypalyam.com/tags/growth-hack/</loc>
+    <lastmod>2023-04-16T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://vijaypalyam.com/about/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vijaypalyam.com/categories/</loc>
   </url>
 </urlset>

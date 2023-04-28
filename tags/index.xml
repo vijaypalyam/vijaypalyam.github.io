@@ -1,54 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ramium</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Ramium</description>
+    <title>Tags on Insights Hub</title>
+    <link>https://vijaypalyam.com/tags/</link>
+    <description>Recent content in Tags on Insights Hub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://vijaypalyam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Growth Hack</title>
-      <link>https://example.com/tags/growth-hack/</link>
+      <title>GrowthHack</title>
+      <link>https://vijaypalyam.com/tags/growthhack/</link>
       <pubDate>Sun, 23 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/tags/growth-hack/</guid>
+      <guid>https://vijaypalyam.com/tags/growthhack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NSM</title>
-      <link>https://example.com/tags/nsm/</link>
+      <link>https://vijaypalyam.com/tags/nsm/</link>
       <pubDate>Sun, 23 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/tags/nsm/</guid>
+      <guid>https://vijaypalyam.com/tags/nsm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dashboard</title>
-      <link>https://example.com/tags/dashboard/</link>
+      <link>https://vijaypalyam.com/tags/dashboard/</link>
       <pubDate>Thu, 20 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/tags/dashboard/</guid>
+      <guid>https://vijaypalyam.com/tags/dashboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guideline Metric</title>
-      <link>https://example.com/tags/guideline-metric/</link>
+      <link>https://vijaypalyam.com/tags/guideline-metric/</link>
       <pubDate>Thu, 20 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/tags/guideline-metric/</guid>
+      <guid>https://vijaypalyam.com/tags/guideline-metric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Product Sucess</title>
-      <link>https://example.com/tags/product-sucess/</link>
+      <link>https://vijaypalyam.com/tags/product-sucess/</link>
       <pubDate>Thu, 20 Apr 2023 17:55:28 +0800</pubDate>
       
-      <guid>https://example.com/tags/product-sucess/</guid>
+      <guid>https://vijaypalyam.com/tags/product-sucess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth Hack</title>
+      <link>https://vijaypalyam.com/tags/growth-hack/</link>
+      <pubDate>Sun, 16 Apr 2023 17:55:28 +0800</pubDate>
+      
+      <guid>https://vijaypalyam.com/tags/growth-hack/</guid>
       <description></description>
     </item>
     
