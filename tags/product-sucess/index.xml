@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Sucess on Ramium</title>
+    <link>https://example.com/tags/product-sucess/</link>
+    <description>Recent content in Product Sucess on Ramium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://example.com/tags/product-sucess/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are you struggling to measure the success of your product?</title>
+      <link>https://example.com/posts/need-help-monitoring-measuring-success-product/</link>
+      <pubDate>Thu, 20 Apr 2023 17:55:28 +0800</pubDate>
+      
+      <guid>https://example.com/posts/need-help-monitoring-measuring-success-product/</guid>
+      <description>If you think you need help monitoring and measuring the success of your product. Then you are most likely struggling to create a meaningful dashboard for your Product. The sheer number of metrics that indicate the effectiveness and performance of your product, Metrics indicating the behavior and satisfaction of your customers will overwhelm you.</description>
+    </item>
+    
+  </channel>
+</rss>

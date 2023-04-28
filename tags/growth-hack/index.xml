@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Growth Hack on Ramium</title>
+    <link>https://example.com/tags/growth-hack/</link>
+    <description>Recent content in Growth Hack on Ramium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://example.com/tags/growth-hack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a good test for determining NSM?</title>
+      <link>https://example.com/posts/good-test-of-nsm/</link>
+      <pubDate>Sun, 23 Apr 2023 17:55:28 +0800</pubDate>
+      
+      <guid>https://example.com/posts/good-test-of-nsm/</guid>
+      <description>In general, we all understand NSM is one metric that the whole organization goes behind. However, when you try to identify such a metric, you will have a hard time. More the stakeholders you involve, more will be the number of goals they would want to achieve, and every such goal will have one or more metrics, considering each of those goals to be important, You will find it even more harded to select a NSM .</description>
+    </item>
+    
+    <item>
+      <title>what is NSM? why is it important?</title>
+      <link>https://example.com/posts/what-is-nsm/</link>
+      <pubDate>Sun, 16 Apr 2023 17:55:28 +0800</pubDate>
+      
+      <guid>https://example.com/posts/what-is-nsm/</guid>
+      <description>Most people define North Star metric as the single most important driver of success and it provides an initiative for the whole company to rally behind. Though this is a good definition, it does not explain what it reflects and what it leads to.</description>
+    </item>
+    
+  </channel>
+</rss>
