@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Insights Hub</title>
+    <title>Posts on Insights Hub - by Vijay Palyam</title>
     <link>https://vijaypalyam.com/posts/</link>
-    <description>Recent content in Posts on Insights Hub</description>
+    <description>Recent content in Posts on Insights Hub - by Vijay Palyam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://vijaypalyam.com/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>https://vijaypalyam.com/posts/good-test-of-nsm/</guid>
       <description>In general, we all understand NSM is one metric that the whole organization goes behind. However, when you try to identify such a metric, you will have a hard time. More the stakeholders you involve, more will be the number of goals they would want to achieve, and every such goal will have one or more metrics, considering each of those goals to be important, You will find it even more harded to select a NSM .</description>
+    </item>
+    
+    <item>
+      <title>Framework for doing a Root Cause Analysis </title>
+      <link>https://vijaypalyam.com/posts/rca-why-how/</link>
+      <pubDate>Sun, 23 Apr 2023 17:55:28 +0800</pubDate>
+      
+      <guid>https://vijaypalyam.com/posts/rca-why-how/</guid>
+      <description>Most of us would have at some point in time would have been asked to do RCA and provide a report. There are a couple of approaches like Fish Bone and 5 why&amp;rsquo;s which are often used for this. These approaches worked very well for most of the problems I was trying to solve. Most of my RCAs were related to system outages, bugs in code, process conformance, and equipment failure.</description>
     </item>
     
     <item>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRIED-Framework on Insights Hub - by Vijay Palyam</title>
+    <link>https://vijaypalyam.com/tags/cried-framework/</link>
+    <description>Recent content in CRIED-Framework on Insights Hub - by Vijay Palyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Apr 2023 17:55:28 +0800</lastBuildDate><atom:link href="https://vijaypalyam.com/tags/cried-framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Framework for doing a Root Cause Analysis </title>
+      <link>https://vijaypalyam.com/posts/rca-why-how/</link>
+      <pubDate>Sun, 23 Apr 2023 17:55:28 +0800</pubDate>
+      
+      <guid>https://vijaypalyam.com/posts/rca-why-how/</guid>
+      <description>Most of us would have at some point in time would have been asked to do RCA and provide a report. There are a couple of approaches like Fish Bone and 5 why&amp;rsquo;s which are often used for this. These approaches worked very well for most of the problems I was trying to solve. Most of my RCAs were related to system outages, bugs in code, process conformance, and equipment failure.</description>
+    </item>
+    
+  </channel>
+</rss>
